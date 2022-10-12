@@ -128,7 +128,7 @@
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
                                         android:fontFamily="@font/roboto_b"
-                                        android:text="Excelを選んでね"
+                                        android:text="Excelを選択"
                                         android:textAllCaps="false"
                                         android:textColor="#FFF"
                                         android:textSize="22.0sp" />
@@ -196,7 +196,7 @@
                                         android:layout_width="wrap_content"
                                         android:layout_height="wrap_content"
                                         android:fontFamily="@font/roboto_b"
-                                        android:text="完成PDFだよ"
+                                        android:text="PDFを作成"
                                         android:textAllCaps="false"
                                         android:textColor="#FFF"
                                         android:textSize="22.0sp" />

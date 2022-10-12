@@ -15,10 +15,11 @@
         android:required="false" />
 
     <uses-permission android:name="android.permission.CAMERA" />
-
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
     <application
         android:name="androidx.multidex.MultiDexApplication"
         android:allowBackup="true"
+        android:preserveLegacyExternalStorage="true"
         android:authorities="${applicationId}.contentprovider"
         android:fullBackupContent="@xml/backup_descriptor"
         android:hardwareAccelerated="true"

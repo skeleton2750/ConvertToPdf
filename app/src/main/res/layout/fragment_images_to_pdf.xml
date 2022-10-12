@@ -122,7 +122,7 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:fontFamily="@font/roboto_b"
-                                    android:text="写真を選んでね"
+                                    android:text="写真を選択"
                                     android:textAllCaps="false"
                                     android:textColor="#FFF"
                                     android:textSize="22.0sp" />
@@ -178,7 +178,7 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:fontFamily="@font/roboto_b"
-                                    android:text="PDF作成"
+                                    android:text="PDFを作成"
                                     android:textAllCaps="false"
                                     android:textColor="#FFF"
                                     android:textSize="22.0sp" />
